@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="Lebanon",MTV Lebanon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="Lebanon",OTV
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="FutureTV.lb@SD" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="Lebanon",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="Lebanon",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="Lebanon",Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mfm.lb@HD" tvg-logo="https://www.mtv.com.lb/images/header/mfm-logo.svg" group-title="Lebanon",mfm (music)
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="MBCMood.sa@SD" tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" group-title="MBC",MBC Mood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Kids",Toon Goggles Junior
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
